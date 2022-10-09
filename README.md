@@ -54,6 +54,10 @@ Esta é uma página que permite o usuário salvar os seus usuários favoritos do
 
 
 
+https://user-images.githubusercontent.com/102679381/194780292-fd2a31dc-980c-4705-bd7a-6e72e32bc8e9.mp4
+
+
+
 ## 🛠 Tecnologias
 
 <div style="display: inline_block"><br/>
