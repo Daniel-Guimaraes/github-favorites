@@ -41,7 +41,7 @@ button {
 }
 
 #app {
-  padding: 2rem;
+  padding: 1rem;
   max-width: 60rem;
   margin: 0 auto;
 }
@@ -164,8 +164,8 @@ table td {
     flex-direction: column;
   }
 
-  .table-users {
+  /* .table-users {
     overflow: auto;
     width: 100%;
-  }
+  } */
 }
