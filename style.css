@@ -42,7 +42,7 @@ button {
 
 #app {
   padding: 2rem;
-  max-width: 600px;
+  max-width: 60rem;
   margin: 0 auto;
 }
 
@@ -50,6 +50,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 2rem;
   margin-block: 2.5rem;
 }
 
@@ -156,4 +157,12 @@ table td {
 
 .column-followers {
   font-weight: 500;
+}
+
+
+@media (max-width: 500px ) {
+  header {
+    flex-direction: column;
+  }
+
 }
