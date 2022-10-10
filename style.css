@@ -159,10 +159,13 @@ table td {
   font-weight: 500;
 }
 
-
-@media (max-width: 500px ) {
+@media (max-width: 500px) {
   header {
     flex-direction: column;
   }
 
+  .table-users {
+    overflow: auto;
+    width: 100%;
+  }
 }
